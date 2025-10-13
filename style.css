@@ -22,3 +22,18 @@ img {
     margin: 30px auto;
     
 }
+
+.content {
+    width: 500px;
+    float: left;
+}
+
+.sidebar {
+    width: 200px;
+    float: right;
+}
+
+
+.clear{
+    clear: both;
+}
